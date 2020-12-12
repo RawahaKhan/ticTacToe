@@ -1,2 +1,2 @@
 # ticTacToe
-Repository is a Tic Tac Toe game, made in Java.
+This Repository is a Tic Tac Toe game, made in Java.
